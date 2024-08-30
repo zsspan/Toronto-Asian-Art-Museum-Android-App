@@ -8,11 +8,15 @@ modifications for enhanced UI/UX, and gradle scripts for configuration/build. Th
 modified/scaled to suit many purposes.
 
 
-## Deployment
+## Deployment/About
 
-This repository is a fork from [https://github.com/orion222/b07project](https://github.com/orion222/b07project) and only contains the master branch. To deploy through Git, run the following command on any
-terminal:
+This repository is a fork from [https://github.com/orion222/b07project](https://github.com/orion222/b07project) and only contains the master branch. The original project had over 200+ commits, 40 merge pull requests, and over 10,000 code insertions. For deployment through Git, run the following command on any terminal:
 
 ```
 git clone https://github.com/zsspan/Toronto-Asian-Art-Museum-Android-App
 ```
+Then run the following gradle scripts in Android Studio, configure the build in Android Studio (should be automatically prompted) and run the file 'MainActivity.java'
+
+## Usage
+
+An in-depth demonstration video can be found on [https://www.youtube.com/watch?v=vxhOdGunL0w](https://www.youtube.com/watch?v=vxhOdGunL0w)
